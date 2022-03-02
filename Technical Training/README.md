@@ -2,50 +2,35 @@
 
 Problems to be solved for Technical Training using online platforms
 
-Experiment No	
-Subdomain	
-Task
+| Experiment No. | Subdomain | Task |
+| -------------- | --------- | ---- |
+| Experiment 1	 | Arrays | https://www.hackerrank.com/challenges/arrays-ds/problem |
+|		|          | https://www.hackerrank.com/challenges/2d-array/problem |
+|		|          | https://www.hackerrank.com/challenges/dynamic-array/problem |
+|		|          | https://www.hackerrank.com/challenges/array-left-rotation/problem |
+|		|          | https://www.hackerrank.com/challenges/crush/problem |
+| Experiment 2 | Stacks & Queues | https://www.hackerrank.com/challenges/equal-stacks/problem |
+|		|          | https://www.hackerrank.com/challenges/maximum-element/problem |
+|		|          | https://www.hackerrank.com/challenges/truck-tour/problem |
+|		|          | https://www.hackerrank.com/challenges/queue-using-two-stacks/problem |
+| Experiment 3 | Linked List | https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem |
+|		|          | https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem |
+|		|          | https://www.hackerrank.com/challenges/compare-two-linked-lists/problem |
+|		|          | https://www.hackerrank.com/challenges/reverse-a-linked-list/problem |
+|		|          | https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem |
+|		|          | https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem |
+| Experiment 4 | Searching and Sorting Techniques | https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/ |
+|		|          | https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/ |
+|		|          | https://www.hackerrank.com/challenges/insertionsort1/problem |
+|		|          | https://www.hackerrank.com/challenges/insertionsort2/problem |
+|		|          | https://www.hackerrank.com/challenges/quicksort1/problem |
+|		|          | https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/min-max-difference/ |
+|		|          | https://www.hackerearth.com/practice/algorithms/sorting/selection-sort/practice-problems/algorithm/old-keypad-in-a-foreign-land-24/ |
+|		|          | https://www.hackerrank.com/challenges/countingsort1/problem |
+|		|          | https://www.hackerrank.com/challenges/countingsort2/problem |
 
-Experiment 1	
-Arrays	https://www.hackerrank.com/challenges/arrays-ds/problem
-		https://www.hackerrank.com/challenges/2d-array/problem
-		https://www.hackerrank.com/challenges/dynamic-array/problem
-		https://www.hackerrank.com/challenges/array-left-rotation/problem
-		https://www.hackerrank.com/challenges/crush/problem
 
-Experiment 2 	Stacks & Queues	https://www.hackerrank.com/challenges/equal-stacks/problem
-		https://www.hackerrank.com/challenges/maximum-element/problem
-
-		https://www.hackerrank.com/challenges/truck-tour/problem
-		https://www.hackerrank.com/challenges/queue-using-two-stacks/problem
-
-Experiment 3	Linked List	https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem
-
-		https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem
-		https://www.hackerrank.com/challenges/compare-two-linked-lists/problem
-
-		https://www.hackerrank.com/challenges/reverse-a-linked-list/problem
-
-		https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem
-		https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem
-
-
-Experiment 4 
-	Searching
-and Sorting Techniques	https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/
-		https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/
-		https://www.hackerrank.com/challenges/insertionsort1/problem
-
-		https://www.hackerrank.com/challenges/insertionsort2/problem
-		https://www.hackerrank.com/challenges/quicksort1/problem
-		https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/min-max-difference/
-
-		https://www.hackerearth.com/practice/algorithms/sorting/selection-sort/practice-problems/algorithm/old-keypad-in-a-foreign-land-24/
-
-		https://www.hackerrank.com/challenges/countingsort1/problem
-		https://www.hackerrank.com/challenges/countingsort2/problem
-
-Experiment 5	Graphs	https://www.hackerrank.com/challenges/bfsshortreach/problem
+Experiment 5	Graphs	https://www.hackerrank.com/challenges/bfsshortreach/problem 
 		https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/monk-and-the-islands/
 		https://www.hackerrank.com/challenges/torque-and-development/problem
 		https://www.hackerrank.com/challenges/kruskalmstrsub/problem
