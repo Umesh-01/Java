@@ -31,3 +31,6 @@ Create a class named ‘Animal’ which includes methods like eat() and sleep().
 Create a child class of Animal named ‘Bird’ and override the parent class methods. Add a new method named fly().
 
 Create an instance of Animal class and invoke the eat and sleep methods using this object. Create an instance of Bird class and invoke the eat, sleep and fly methods using this object.
+
+#### Question 7
+Write a program to print the color name, based on color code. If color code in not valid then print "Invalid Code". R->Red, B->Blue, G->Green, O->Orange, Y->Yellow, W->White.
