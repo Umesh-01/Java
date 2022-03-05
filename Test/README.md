@@ -34,3 +34,10 @@ Create an instance of Animal class and invoke the eat and sleep methods using th
 
 #### Question 7
 Write a program to print the color name, based on color code. If color code in not valid then print "Invalid Code". R->Red, B->Blue, G->Green, O->Orange, Y->Yellow, W->White.
+
+#### Question 8
+Write a program to accept name and age of a person from the command prompt(passed as arguments when you execute the class) and ensure that the age entered is >=18 and < 60.
+
+Display proper error messages.
+
+The program must exit gracefully after displaying the error message in case the arguments passed are not proper. (Hint : Create a user defined exception class for handling errors.)
