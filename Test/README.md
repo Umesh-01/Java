@@ -41,3 +41,8 @@ Write a program to accept name and age of a person from the command prompt(passe
 Display proper error messages.
 
 The program must exit gracefully after displaying the error message in case the arguments passed are not proper. (Hint : Create a user defined exception class for handling errors.)
+
+#### Question 9
+Write a Program to take care of NumberFormatException if user enters values other than integer for calculating average marks of 2 students. The name of the students and marks in 3 subjects are taken from the user while executing the program.
+
+In the same Program write your own Exception classes to take care of Negative values and values out of range (i.e. other than in the range of 0-100)
