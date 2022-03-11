@@ -19,21 +19,18 @@ Rate of FD interest for amounts below 1 Crore:
 
 
 Rate of FD interest for amounts above 1 Crore:
-Maturity Period
-Interest Rate
-7 days to 14 days
-6.50
-15 days to 29 days
-6.75
-30 days to 45 days
-6.75
-45 days to 60 days
-8
-61 days to 184 days
-8.50
-185 days to 1 year
-10.00
+
+Maturity Period | Interest Rate
+--------------- | -------------
+7 days to 14 days | 6.50
+15 days to 29 days | 6.75
+30 days to 45 days | 6.75
+45 days to 60 days | 8
+61 days to 184 days | 8.50
+185 days to 1 year | 10.00
+
 Rate of RD interests:
+
 Current Rates of interest
 Maturity Period
 General
