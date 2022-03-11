@@ -11,21 +11,11 @@ Rate of FD interest for amounts below 1 Crore:
 | -------------- | -------------- | -------------- |
 | Maturity Period | General | Senior Citizen |
 | 7 days to 14 days | 4.50 | 5.00 |
-15 days to 29 days
-4.75
-5.25
-30 days to 45 days
-5.50
-6.00
-45 days to 60 days
-7
-7.50
-61 days to 184 days
-7.50
-8.00
-185 days to 1 year
-8.00
-8.50
+| 15 days to 29 days | 4.75 | 5.25 |
+| 30 days to 45 days | 5.50 | 6.00 |
+| 45 days to 60 days | 7 | 7.50 |
+| 61 days to 184 days | 7.50 | 8.00 |
+| 185 days to 1 year | 8.00 | 8.50 |
 
 
 Rate of FD interest for amounts above 1 Crore:
