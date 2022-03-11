@@ -6,13 +6,11 @@ Some sample rates are given in the below tables:
 
 Rate of FD interest for amounts below 1 Crore:
 
-Current Rates of interest
-Maturity Period
-General
-Senior Citizen
-7 days to 14 days
-4.50
-5.00
+
+|  | Current Rates of Interest | |
+| -------------- | -------------- | -------------- |
+| Maturity Period | General | Senior Citizen |
+| 7 days to 14 days | 4.50 | 5.00 |
 15 days to 29 days
 4.75
 5.25
@@ -28,6 +26,8 @@ Senior Citizen
 185 days to 1 year
 8.00
 8.50
+
+
 Rate of FD interest for amounts above 1 Crore:
 Maturity Period
 Interest Rate
