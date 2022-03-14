@@ -53,12 +53,15 @@ Requirements:
 2. All classes should be derives from an abstract class named ‘Account’ which contains a method called ‘calculateInterest’.
 3. Implement the calculateInterest method according to the type of the account, interest rates, amount and age of the account holder.
 4. If the user is entering any invalid value (For eg. Negative value) in any fields, raise a user defined exception.
-5. 
+
 Sample class structure is given below:
-Account(Abstract)
-double interestRate
-double amount
-abstract double calculateInterest()
+
+| Account(Abstract) |
+| ---------------- |
+| double interestRate |
+| double amount |
+| abstract double calculateInterest() |
+
 FDAccount
 double interestRate
 double amount
