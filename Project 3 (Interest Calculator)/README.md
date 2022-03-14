@@ -31,28 +31,16 @@ Maturity Period | Interest Rate
 
 Rate of RD interests:
 
-Current Rates of interest
-Maturity Period
-General
-Senior Citizen
-6 months
-7.50
-8.00
-9 months
-7.75
-8.25
-12 months
-8.00
-8.50
-15 months
-8.25
-8.75
-18 months
-8.50
-9.00
-21 months
-8.75
-9.25
+|  | Current Rates of interest |  |
+| --- | ------ | --------- |
+| Maturity Period | General | Senior Citizen |
+| 6 months | 7.50 | 8.00 |
+| 9 months | 7.75 | 8.25 |
+| 12 months | 8.00 | 8.50 |
+| 15 months | 8.25 | 8.75 |
+| 18 months | 8.50 | 9.00 |
+| 21 months | 8.75 | 9.25 |
+
 SB Account interest rates:
 Type of Account
 Interest Rate
