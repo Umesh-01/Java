@@ -42,17 +42,18 @@ Rate of RD interests:
 | 21 months | 8.75 | 9.25 |
 
 SB Account interest rates:
-Type of Account
-Interest Rate
-Normal
-4%
-NRI
-6%
+
+| Type of Account | Interest Rate |
+| ----- | ----- |
+| Normal | 4% |
+| NRI | 6% |
+
 Requirements:
 1. Separate classes should be created for the different types of accounts.
 2. All classes should be derives from an abstract class named ‘Account’ which contains a method called ‘calculateInterest’.
 3. Implement the calculateInterest method according to the type of the account, interest rates, amount and age of the account holder.
 4. If the user is entering any invalid value (For eg. Negative value) in any fields, raise a user defined exception.
+5. 
 Sample class structure is given below:
 Account(Abstract)
 double interestRate
