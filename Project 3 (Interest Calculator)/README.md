@@ -62,12 +62,14 @@ Sample class structure is given below:
 | double amount |
 | abstract double calculateInterest() |
 
-FDAccount
-double interestRate
-double amount
-int noOfDays
-ageOfACHolder
-abstract double calculateInterest()
+| FDAccount |
+|---------|
+| double interestRate |
+| double amount |
+| int noOfDays |
+| ageOfACHolder |
+| abstract double calculateInterest() |
+
 SBAccount
 double interestRate
 double amount
