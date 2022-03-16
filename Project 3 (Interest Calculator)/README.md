@@ -91,46 +91,67 @@ Select the option:
 2. Interest Calculator –FD
 3. Interest Calculator –RD
 4. Exit
+
 1
+
 Enter the Average amount in your account:
 10000
+
 Interest gained: Rs. 400
+
 Select the option:
 1. Interest Calculator –SB
 2. Interest Calculator –FD
 3. Interest Calculator –RD
 4. Exit
+
 2
+
 Enter the FD amount:
 10000
+
 Enter the number of days:
 91
+
 Enter your age:
 65
+
 Interest gained is: 800
+
 Select the option:
 1. Interest Calculator –SB
 2. Interest Calculator –FD
 3. Interest Calculator –RD
 4. Exit
+
 2
+
 Enter the FD amount:
 10000
+
 Enter the number of days:
 91
+
 Enter your age:
 34
+
 Interest gained is: 750
+
 Select the option:
 1. Interest Calculator –SB
 2. Interest Calculator –FD
 3. Interest Calculator –RD
 4. Exit
+
 2
+
 Enter the FD amount:
 10000
+
 Enter the number of days:
 -7
+
 Enter your age:
 78
+
 Invalid Number of days. Please enter correct values.
