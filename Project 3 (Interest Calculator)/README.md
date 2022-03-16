@@ -70,16 +70,20 @@ Sample class structure is given below:
 | ageOfACHolder |
 | abstract double calculateInterest() |
 
-SBAccount
-double interestRate
-double amount
-abstract double calculateInterest()
-RDAccount
-double interestRate
-double amount
-int noOfMonths;
-double monthlyAmount;
-abstract double calculateInterest()
+|SBAccount |
+|---------|
+| double interestRate |
+| double amount |
+| abstract double calculateInterest() |
+
+| RDAccount |
+|----------|
+| double interestRate |
+| double amount |
+| int noOfMonths; |
+| double monthlyAmount; |
+| abstract double calculateInterest() |
+
 Hint: Use method overriding
 Sample Output:
 Select the option:
