@@ -19,11 +19,17 @@ a
 1
 
 Enter a card :
+
 a
-2
+
+2 
+
 Enter a card :
+
 a
+
 7
+
 Enter a card :
 d
 6
