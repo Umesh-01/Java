@@ -1,4 +1,4 @@
-### Collect and Group Cards
+## Project 4
 
 Write a program to collect and store all the cards to assist the users in finding all the cards in a given
 symbol.
