@@ -1,5 +1,7 @@
 ## Project 2
 
+#### _A Video Rental Inventory System_
+
 The goal of this project is to design and implement a simple inventory control system for a small video rental store. Define least two classes: a class Video to model a video and a class VideoStore to model the actual store.
 
 Assume that an object of class Video has the following attributes:
