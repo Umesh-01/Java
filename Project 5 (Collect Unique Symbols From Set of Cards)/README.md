@@ -30,24 +30,46 @@ a
 
 7
 
+
 Enter a card :
+
 d
+
 6
+
 Enter a card :
+
 c
+
+
 2
+
 Enter a card :
+
 d
+
 1
+
 Enter a card :
+
 c
+
 1
+
 Enter a card :
+
 b
+
 2
+
 Four symbols gathered in 8 cards.
+
 Cards in Set are :
+
 a 1
+
 b 2
+
 c 2
+
 d 6
