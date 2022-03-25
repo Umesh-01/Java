@@ -11,7 +11,6 @@ the values in Card object with the attributes symbol and number.
 Store all the cards in a map with symbol as its key and list of cards as its value. Map is used here to
 easily group all the cards based on their symbol.
 
-
 Once all the details are captured print all the distinct symbols in alphabetical order from the Map. For
 each symbol print all the card details, number of cards and their sum respectively.
 
