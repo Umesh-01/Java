@@ -28,10 +28,6 @@ public class Card implements Comparable<Card> {
 		this.number = number;
 	}
 
-	public String toString() {
-		return "Card [symbol=" + symbol + ", number=" + number + "]";
-	}
-
 	public int compareTo(Card o) {
 		if (this.symbol < o.symbol) return -1;
 		else if (this.symbol > o.symbol) return 1;
