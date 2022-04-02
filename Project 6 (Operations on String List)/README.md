@@ -11,10 +11,14 @@ Sample Input and Output :
 3. Delete
 4. Display
 5. Exit
+ 
 Enter your choice :
 1
+
 Enter the item to be inserted:
+
 Bottle
+
 Inserted successfully
 1. Insert
 2. Search
