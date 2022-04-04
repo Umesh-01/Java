@@ -51,43 +51,65 @@ Enter your choice :
 Enter the item to be inserted:
 
 Cap
+
 Inserted successfully
+
 1. Insert
 2. Search
 3. Delete
 4. Display
 5. Exit
+
 Enter your choice :
+
 1
+
 Enter the item to be inserted:
+
 Monitor
+
 Inserted successfully
+
 1. Insert
 2. Search
 3. Delete
 4. Display
 5. Exit
+
 Enter your choice :
+
 2
+
 Enter the item to search :
+
 Mouse
+
 Item not found in the list.
+
 1. Insert
 2. Search
 3. Delete
 4. Display
 5. Exit
+
 Enter your choice :
+
 2
+
 Enter the item to search :
+
 Monitor
+
 Item found in the list.
+
 1. Insert
 2. Search
 3. Delete
 4. Display
 5. Exit
+
 Enter your choice :
+
 3
 Enter the item to delete :
 Mouse
