@@ -13,6 +13,7 @@ Sample Input and Output :
 5. Exit
  
 Enter your choice :
+
 1
 
 Enter the item to be inserted:
@@ -20,24 +21,35 @@ Enter the item to be inserted:
 Bottle
 
 Inserted successfully
+
 1. Insert
 2. Search
 3. Delete
 4. Display
 5. Exit
+
 Enter your choice :
+
 1
+
 Enter the item to be inserted:
+
 Water
+
 Inserted successfully
+
 1. Insert
 2. Search
 3. Delete
 4. Display
 5. Exit
+
 Enter your choice :
+
 1
+
 Enter the item to be inserted:
+
 Cap
 Inserted successfully
 1. Insert
