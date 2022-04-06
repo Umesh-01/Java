@@ -188,3 +188,41 @@ Tokyo                                       Japan
 the Country names stored as keys. This method should return the ArrayList.
 
 NOTE: You can test the methods using a main method.
+
+#### Question 2
+
+Write a java program that connects to oracle database, queries the inbuilt table “emp” and displays the first two columns (empno using column index and ename using column name ) of all the rows.
+
+#### Question 3
+
+Write a java program that establishes a connection to oracle database successfully. If the connection is successful, it should display a message “Connection Established successfully”. In case, it is not able to do so due to any exception, it should display the message “Connection could not be established “. If there is an exception, it should also display the description of the exception.
+
+#### Question 4
+
+Create a class Employee and implement the below method in the class.
+
+Write Junit testcases to test the below given method:
+
+ 
+
+public String findName(ArrayList employees,String name){
+
+ String result="";
+
+ if(employees.contains(name)){
+
+  result="FOUND";
+
+ }else{
+
+  result="NOT FOUND";
+
+ }
+
+ return result;
+
+ }
+
+#### Question 5
+
+Write a program to store a group of employee names into a HashSet, retrieve the elements one by one using an Iterator.
