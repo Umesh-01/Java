@@ -4,6 +4,10 @@
 
 #### Question 1
 
+
+> Source Code: ArrayProgram.java
+
+
 Write a program that takes as input the size of the array and the elements in the array. The program then asks the user to enter a particular index and prints the element at that index. Index starts from zero.
 
  
@@ -73,6 +77,9 @@ j
 java.lang.NumberFormatException
 
 #### Question 2
+
+> Source Code: AuthorBook.java
+
 Create a class called Author is designed as follows:
 
  
@@ -104,11 +111,17 @@ Try:
 2. After obtaining the “Author” object, print the Author (name, email & gender) of the book.
 
 #### Question 3
+
+> Source Code: StringSeparator.java
+
 Given two strings, word and a separator, return a big string made of count occurrences of the word, separated by the separator string.
 
 if the inputs are "Wipro","X" and 3 then the output is "WiproXWiproXWipro".
 
 #### Question 4
+
+> Source Code: CalculatePower.java
+
 Write a program
 
 Create a new class called “Calculator” which contains the following:
@@ -122,6 +135,9 @@ Create a new class called “Calculator” which contains the following:
 Hint: Use Math.pow(double,double) to calculate the power.
 
 #### Question 5
+
+> Source Code: CharactersInOrder.java
+
 Write a Program:
 
  
