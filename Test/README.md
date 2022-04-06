@@ -53,3 +53,57 @@ In the same Program write your own Exception classes to take care of Negative va
 --------------------
 
 #### Question 1
+
+Create Collection called TreeSet which is capable of storing String objects. The Collection should have the following capabilities
+
+a)Reverse the elements of the Collection 
+
+b)Iterate the elements of the TreeSet 
+
+c) Checked if a particular element exists or not
+
+#### Question 2
+
+Write a program to create a HashMap to store name and phone number (Telephone book). When name is given, we can get back the corresponding phone number.
+
+#### Question 3
+
+File Copy
+
+Write a program to copy from one file to another.
+
+ 
+
+Sample Input and Output:
+
+Enter the input file name
+
+Input.txt
+
+Enter the output file name
+
+Output.txt
+
+#### Question 4
+
+Create an ArrayList which will be able to store only numbers like int,float,double,etc, but not any other data type.
+
+#### Question 5
+
+File : Count Character
+
+Write a program to count the number of times a character appears in the File. (Case insensitive... 'a' and 'A' are considered to be the same)
+
+ 
+
+Sample Output:
+
+Enter the file name
+
+Input.txt
+
+Enter the character to be counted
+
+r
+
+File 'Input.txt' has 99 instances of letter 'r'.
