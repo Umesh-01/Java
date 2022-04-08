@@ -69,6 +69,7 @@ Main Menu
 1. Add an Employee
 2. Display All
 3. Exit
+
 3
 
 Exiting the System
