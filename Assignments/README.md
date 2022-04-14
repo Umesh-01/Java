@@ -55,9 +55,6 @@ Enter the index of the array element you want to access
 9
 
 java.lang.ArrayIndexOutOfBoundsException
-
- 
-
  
 
  Sample Input and Output 3:
@@ -207,7 +204,6 @@ Write a java program that establishes a connection to oracle database successful
 Create a class Employee and implement the below method in the class.
 
 Write Junit testcases to test the below given method:
-
  
 
 public String findName(ArrayList employees,String name){
