@@ -2,9 +2,9 @@
 
 Problems to be solved for Technical Training using online platforms.
 
-| Experiment No. | Subdomain | Task | 
-| -------------- | --------- | ---- | 
-| Exp 1 | Arrays | https://www.hackerrank.com/challenges/arrays-ds/problem | 
+| Experiment No. | Subdomain | Task | Solution |
+| -------------- | --------- | ---- | ----- |
+| Exp 1 | Arrays | https://www.hackerrank.com/challenges/arrays-ds/problem |
 |		|          | https://www.hackerrank.com/challenges/2d-array/problem |
 |		|          | https://www.hackerrank.com/challenges/dynamic-array/problem |
 |		|          | https://www.hackerrank.com/challenges/array-left-rotation/problem |
