@@ -187,7 +187,7 @@ NOTE: You can test the methods using a main method.
 
 #### Question 2
 
-> Source Code: 
+> Source Code: EmpDetails.java
 
 Write a java program that connects to oracle database, queries the inbuilt table “emp” and displays the first two columns (empno using column index and ename using column name ) of all the rows.
 
