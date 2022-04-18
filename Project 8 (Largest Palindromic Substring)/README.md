@@ -10,6 +10,7 @@ Input Format
 A string, S.
 
 Constraints
+
 1 <= |S| <= 1000000
 
 All the characters are lower-case English letters.
@@ -21,9 +22,11 @@ Print the largest possible substring of S.
 Sample Input
 
 hackerrekcahba
+
 Sample Output
 
 hackerrekcah
+
 Explanation
 
 The longest palindromic substring of the the given input hackerrekcahbahh is hackerrekcah.
