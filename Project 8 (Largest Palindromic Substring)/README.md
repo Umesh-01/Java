@@ -5,28 +5,28 @@
 
 Given a string, S, find its largest palindromic substring.
 
-Input Format
+**Input Format**
 
 A string, S.
 
-Constraints
+**Constraints**
 
 1 <= |S| <= 1000000
 
 All the characters are lower-case English letters.
 
-Output Format
+**Output Format**
 
 Print the largest possible substring of S.
 
-Sample Input
+**Sample Input**
 ```
 hackerrekcahba
 ```
-Sample Output
+**Sample Output**
 ```
 hackerrekcah
 ```
-Explanation
+**Explanation**
 
 The longest palindromic substring of the the given input `hackerrekcahbahh` is `hackerrekcah`.
