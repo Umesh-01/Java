@@ -52,9 +52,15 @@ Create a child class of Animal named ‘Bird’ and override the parent class me
 Create an instance of Animal class and invoke the eat and sleep methods using this object. Create an instance of Bird class and invoke the eat, sleep and fly methods using this object.
 
 #### Question 7
+
+> Source Code: Colours.java
+
 Write a program to print the color name, based on color code. If color code in not valid then print "Invalid Code". R->Red, B->Blue, G->Green, O->Orange, Y->Yellow, W->White.
 
 #### Question 8
+
+> Source Code: PersonDetails.java
+
 Write a program to accept name and age of a person from the command prompt(passed as arguments when you execute the class) and ensure that the age entered is >=18 and < 60.
 
 Display proper error messages.
@@ -62,6 +68,9 @@ Display proper error messages.
 The program must exit gracefully after displaying the error message in case the arguments passed are not proper. (Hint : Create a user defined exception class for handling errors.)
 
 #### Question 9
+
+> Source Code: StudentMarks.java
+
 Write a Program to take care of NumberFormatException if user enters values other than integer for calculating average marks of 2 students. The name of the students and marks in 3 subjects are taken from the user while executing the program.
 
 In the same Program write your own Exception classes to take care of Negative values and values out of range (i.e. other than in the range of 0-100)
