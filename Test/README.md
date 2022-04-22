@@ -134,3 +134,13 @@ Enter the character to be counted
 r
 
 File 'Input.txt' has 99 instances of letter 'r'.
+
+#### Question 6
+
+Create a Collection called HashMap which is capable of storing String objects. The program should have the following abilities
+
+a) Check if a particular key exists or not 
+
+b) Check if a particular value exists or not 
+
+c) Use Iterator to loop through the map key set
