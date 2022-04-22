@@ -137,7 +137,7 @@ File 'Input.txt' has 99 instances of letter 'r'.
 
 #### Question 6
 
-Create a Collection called HashMap which is capable of storing String objects. The program should have the following abilities
+Create a Collection called HashMap which is capable of storing String objects. The program should have the following abilities:
 
 a) Check if a particular key exists or not 
 
