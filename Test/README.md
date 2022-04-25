@@ -11,7 +11,7 @@ Create a class Box that uses a parameterized method to initialize the dimensions
 
 #### Question 2
 
-> Source Code: PrimeNumbers.java
+> Source Code: [PrimeNumbers.java](https://github.com/Umesh-01/Java/blob/main/Test/PrimeNumbers.java)
 
 Write a program to print prime numbers between 10 and 99.
 
