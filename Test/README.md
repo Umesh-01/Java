@@ -17,7 +17,7 @@ Write a program to print prime numbers between 10 and 99.
 
 #### Question 3
 
-> Source Code: MathOperation.java
+> Source Code: [MathOperation.java](https://github.com/Umesh-01/Java/blob/main/Test/MathOperation.java)
 
 Write a class MathOperation which accepts integers from command line. Create an array using these parameters. Loop through the array and obtain the sum and average of all the elements.
 
