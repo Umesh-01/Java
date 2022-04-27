@@ -115,7 +115,7 @@ if the inputs are "Wipro","X" and 3 then the output is "WiproXWiproXWipro".
 
 #### Question 4
 
-> Source Code: CalculatePower.java
+> Source Code: [CalculatePower.java](https://github.com/Umesh-01/Java/blob/main/Assignments/CalculatePower.java)
 
 Write a program
 
@@ -131,7 +131,7 @@ Hint: Use Math.pow(double,double) to calculate the power.
 
 #### Question 5
 
-> Source Code: CharactersInOrder.java
+> Source Code: [CharactersInOrder.java](https://github.com/Umesh-01/Java/blob/main/Assignments/CharactersInOrder.java)
 
 Write a Program:
 
