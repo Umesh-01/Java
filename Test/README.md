@@ -53,7 +53,7 @@ Create an instance of Animal class and invoke the eat and sleep methods using th
 
 #### Question 7
 
-> Source Code: Colours.java
+> Source Code: [Colours.java](https://github.com/Umesh-01/Java/blob/main/Test/Colours.java)
 
 Write a program to print the color name, based on color code. If color code in not valid then print "Invalid Code". R->Red, B->Blue, G->Green, O->Orange, Y->Yellow, W->White.
 
