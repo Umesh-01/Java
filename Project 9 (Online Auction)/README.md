@@ -15,7 +15,7 @@ None of the fields should be empty. Perform necessary validations on the HTML Pa
 <div align="center">
 <img src="https://user-images.githubusercontent.com/83420185/166309558-9aee792d-e072-4577-8596-0aa7027d9c20.png">
 </div>
-
+<br>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/83420185/166309628-ec0d534e-2b2b-4757-9043-8d61b3fa2847.png">
 </div>
