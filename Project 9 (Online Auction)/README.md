@@ -10,7 +10,9 @@ Create a HTML page as shown below.
 <img src="https://user-images.githubusercontent.com/83420185/166309541-0385d0bf-8114-4310-bd73-26de4a953331.png">
 </div>
 <br>
+
 None of the fields should be empty. Perform necessary validations on the HTML Page.
+
 <br>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/83420185/166309558-9aee792d-e072-4577-8596-0aa7027d9c20.png">
