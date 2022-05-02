@@ -14,3 +14,8 @@ None of the fields should be empty. Perform necessary validations on the HTML Pa
 
 ![image](https://user-images.githubusercontent.com/83420185/166309628-ec0d534e-2b2b-4757-9043-8d61b3fa2847.png)
 
+If all the fields have necessary values, invoke a servlet that collects all the information and invokes a JSP page to display the information in the format given below.
+
+Use Java Bean wherever required.
+
+![image](https://user-images.githubusercontent.com/83420185/166309655-13d8dc0b-3d94-4010-a49f-b1ab645b77c5.png)
