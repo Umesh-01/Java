@@ -24,4 +24,6 @@ If all the fields have necessary values, invoke a servlet that collects all the 
 
 Use Java Bean wherever required.
 
-![image](https://user-images.githubusercontent.com/83420185/166309655-13d8dc0b-3d94-4010-a49f-b1ab645b77c5.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/83420185/166309655-13d8dc0b-3d94-4010-a49f-b1ab645b77c5.png">
+</div>
