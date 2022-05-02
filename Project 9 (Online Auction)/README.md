@@ -5,9 +5,9 @@
 Create an application for online auction using Servlet and JSP.
 
 Create a HTML page as shown below.
-
-![image](https://user-images.githubusercontent.com/83420185/166309541-0385d0bf-8114-4310-bd73-26de4a953331.png)
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/83420185/166309541-0385d0bf-8114-4310-bd73-26de4a953331.png">
+</div>
 None of the fields should be empty. Perform necessary validations on the HTML Page.
 
 ![image](https://user-images.githubusercontent.com/83420185/166309558-9aee792d-e072-4577-8596-0aa7027d9c20.png)
