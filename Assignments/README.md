@@ -225,7 +225,7 @@ public String findName(ArrayList employees,String name){
 
 #### Question 5
 
-> Source Code: HashSetIterator.java
+> Source Code: [HashSetIterator.java](https://github.com/Umesh-01/Java/blob/main/Assignments/HashSetIterator.java)
 
 Write a program to store a group of employee names into a HashSet, retrieve the elements one by one using an Iterator.
 
