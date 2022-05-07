@@ -240,3 +240,11 @@ Create a HTML Page, which asks the user to enter a number in a textbox. On click
 #### Question 2
 
 Write a servlet to display “My First Servlet program” on browser.
+
+#### Question 3
+
+What is the difference between Servlet Request and Servlet Context when calling a Request Dispatcher?
+
+#### Question 4
+
+Diagrammatically explain the Servlet Life Cycle.
