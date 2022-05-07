@@ -237,3 +237,6 @@ Write a program to store a group of employee names into a HashSet, retrieve the 
 
 Create a HTML Page, which asks the user to enter a number in a textbox. On clicking the submit button, it places the request to a Servlet. The Servlet generates all Prime numbers which are less than the given number and adds them to an ArrayList and forwards the control to a JSP page. The JSP page iterates through the ArrayList and prints them in a tabular format.
 
+#### Question 2
+
+Write a servlet to display “My First Servlet program” on browser.
