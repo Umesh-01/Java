@@ -82,13 +82,11 @@ font {
 </head>
 <body>
 
-
 	<%
     
        List l=(List)session.getAttribute("errors");
        
     %>
-
 
 	<div class="cont">
 		<div class="auction">Welcome to AP Auctions .Please Enter Bid.</div>
