@@ -62,7 +62,8 @@ public class SubmitBid extends HttpServlet {
 
 			response.sendRedirect("index.jsp");
 
-		} else {
+		} 
+		else {
 			session.setAttribute("itemid", itemID);
 			session.setAttribute("itemname", itemName);
 			session.setAttribute("username", userName);
@@ -75,7 +76,7 @@ public class SubmitBid extends HttpServlet {
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
-		// TODO Auto-generated method stub
+		
 		doGet(request, response);
 	}
 
