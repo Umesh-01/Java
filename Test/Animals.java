@@ -14,10 +14,7 @@ class Aniimal{
 
   }
 
-
 }
-
-
 
 class Bird extends Aniimal{
 
@@ -30,8 +27,6 @@ class Bird extends Aniimal{
 
   }
 
-
-
   public void sleep() {
 
     super.sleep();
@@ -39,8 +34,6 @@ class Bird extends Aniimal{
     System.out.println("This is overriden sleep method");
 
   }
-
-
 
   public void fly()
 
@@ -51,8 +44,6 @@ class Bird extends Aniimal{
   }
 
 }
-
-
 
 public class Animals{
 
