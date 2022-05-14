@@ -62,10 +62,6 @@ e.printStackTrace();
 
 System.out.println(list);
 
-
-
 }
-
-
 
 }
