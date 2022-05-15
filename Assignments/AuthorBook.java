@@ -8,8 +8,6 @@ private String email;
 
 private char gender;
 
-
-
 public Author(String name, String email, char gender) {
 
 super();
