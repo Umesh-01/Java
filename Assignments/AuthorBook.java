@@ -1,7 +1,5 @@
 package extra;
 
-
-
 class Author {
 
 private String name;
