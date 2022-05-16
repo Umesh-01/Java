@@ -11,22 +11,16 @@ public Author(String name, String email, char gender) {
 super();
 
 this.name = name;
-
 this.email = email;
-
 this.gender = gender;
 
 }
-
-
 
 public String getName() {
 
 return name;
 
 }
-
-
 
 public String getEmail() {
 
