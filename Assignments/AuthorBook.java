@@ -28,17 +28,11 @@ return email;
 
 }
 
-
-
 public char getGender() {
 
 return gender;
 
 }
-
-
-
-
 
 public String toString() {
 
