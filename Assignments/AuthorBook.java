@@ -40,18 +40,11 @@ return "Author Details: (Name -> " + name + ", Email -> " + email + ", Gender ->
 
 }
 
-
-
-
-
 }
-
-
 
 class Book {
 
 private String name;
-
 private Author author;
 
 private double price;
