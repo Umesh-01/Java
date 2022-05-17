@@ -112,13 +112,10 @@ public class AuthorBook {
 public static void main(String[] args) {
 
 Author author = new Author("Umesh Singh", "20BCS8013@cuchd.in", 'M');
-
 Book book = new Book("Project Based Learning in Java", author, 249.0, 121);
 
 System.out.println(book);
 
 }
-
-
 
 }
