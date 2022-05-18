@@ -1,9 +1,6 @@
 package extra;
 
 
-
-
-
 class Calculator {
 
 public static int powerInt(int num1, int num2) {
