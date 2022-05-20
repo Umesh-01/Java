@@ -156,3 +156,17 @@ a) Check if a particular key exists or not
 b) Check if a particular value exists or not 
 
 c) Use Iterator to loop through the map key set
+
+### Surprise Test 3 
+-------------------
+
+How many tags are provided in JSTL? Explain any two.
+
+
+Write a jsp program that prints a table with numbers and their corresponding factorial values.
+
+
+Diagrammatically explain the Servlet Life Cycle.
+
+
+With appropriate example mention the difference between web server and application server?
