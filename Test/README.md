@@ -160,13 +160,18 @@ c) Use Iterator to loop through the map key set
 ### Surprise Test 3 
 -------------------
 
+#### Question 1
+
 How many tags are provided in JSTL? Explain any two.
 
+#### Question 2
 
 Write a jsp program that prints a table with numbers and their corresponding factorial values.
 
+#### Question 3
 
 Diagrammatically explain the Servlet Life Cycle.
 
+#### Question 4
 
 With appropriate example mention the difference between web server and application server?
