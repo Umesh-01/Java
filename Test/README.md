@@ -162,16 +162,24 @@ c) Use Iterator to loop through the map key set
 
 #### Question 1
 
+> Answer: 
+
 How many tags are provided in JSTL? Explain any two.
 
 #### Question 2
+
+> Source Code: 
 
 Write a jsp program that prints a table with numbers and their corresponding factorial values.
 
 #### Question 3
 
+> Answer: 
+
 Diagrammatically explain the Servlet Life Cycle.
 
 #### Question 4
+
+> Answer: 
 
 With appropriate example mention the difference between web server and application server?
