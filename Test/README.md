@@ -162,7 +162,7 @@ c) Use Iterator to loop through the map key set
 
 #### Question 1
 
-> Answer: 
+> Answer: [JSTL](https://github.com/Umesh-01/Java/blob/main/Test/jstl.md)
 
 How many tags are provided in JSTL? Explain any two.
 
@@ -174,12 +174,12 @@ Write a jsp program that prints a table with numbers and their corresponding fac
 
 #### Question 3
 
-> Answer: 
+> Answer: [ServletLifeCycle](https://github.com/Umesh-01/Java/blob/main/Test/servletlifecycle.md)
 
 Diagrammatically explain the Servlet Life Cycle.
 
 #### Question 4
 
-> Answer: 
+> Answer: [Web Server Vs Application Server](https://github.com/Umesh-01/Java/blob/main/Test/WebserVsAppser.md)
 
 With appropriate example mention the difference between web server and application server?
